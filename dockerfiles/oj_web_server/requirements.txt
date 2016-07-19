@@ -1,0 +1,15 @@
+django
+MySQL-python
+redis
+django-redis-sessions
+djangorestframework
+django-rest-swagger
+gunicorn
+coverage
+django-extensions
+supervisor
+pillow
+jsonfield
+Envelopes
+celery
+qrcode
