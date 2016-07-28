@@ -145,5 +145,5 @@ urlpatterns = [
 ]
 
 
-if settings.DEBUG:
-    urlpatterns.append(url(r'^docs/', include('rest_framework_swagger.urls')))
+# if settings.DEBUG:
+    # urlpatterns.append(url(r'^docs/', include('rest_framework_swagger.urls')))
