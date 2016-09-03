@@ -3,7 +3,7 @@ import os
 
 
 WEBSITE_INFO = {"website_name": u"UCAS OnlineJudge",
-                "website_name_shortcut": u"OnlineJude",
+                "website_name_shortcut": u"OnlineJudge",
                 "website_footer": u"中国科学院大学计算机与控制学院 <a href=\"http://www.miibeian.gov.cn/\">京ICP备10086号-1</a>",
                 # url结尾没有/
                 "url": u"http://oj.ucasidea.com"}
